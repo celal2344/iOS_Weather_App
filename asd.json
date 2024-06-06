@@ -1,0 +1,69 @@
+{
+    "latitude": 38.375,
+    "longitude": 27.125,
+    "generationtime_ms": 0.24807453155517578,
+    "utc_offset_seconds": 10800,
+    "timezone": "Europe/Moscow",
+    "timezone_abbreviation": "MSK",
+    "elevation": 114,
+    "current_units": {
+      "time": "iso8601",
+      "interval": "seconds",
+      "temperature_2m": "°C",
+      "is_day": "",
+      "rain": "mm",
+      "snowfall": "cm"
+    },
+    "current": {
+      "time": "2023-10-30T15:45",
+      "interval": 900,
+      "temperature_2m": 24.5,
+      "is_day": 1,
+      "rain": 0,
+      "snowfall": 0
+    },
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "°C",
+      "rain_sum": "mm",
+      "snowfall_sum": "cm"
+    },
+    "daily": {
+      "time": [
+        "2023-10-30",
+        "2023-10-31",
+        "2023-11-01",
+        "2023-11-02",
+        "2023-11-03",
+        "2023-11-04",
+        "2023-11-05"
+      ],
+      "temperature_2m_max": [
+        24.8,
+        24.6,
+        24.6,
+        20.2,
+        24.8,
+        25.3,
+        22.5
+      ],
+      "rain_sum": [
+        0,
+        0,
+        0,
+        2.8,
+        0,
+        0,
+        0.3
+      ],
+      "snowfall_sum": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
